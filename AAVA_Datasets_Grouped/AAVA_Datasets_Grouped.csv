@@ -1,74 +1,74 @@
-index,code,title,source,lat,lon,plots,photo,url,detailed_map_url,group,url_class,img_class,marker-color
-1,pru_dw,prudhoe_dwalker (9 locations),D.A. Walker 1985,70.25177,-148.5973,92,Prudhoe Bay (PRU_SW).jpg,,/aava-data-1,0,,,#ff0000
-1a,pru_dw_kr,prudhoe_dwalker_kuparukriver,D.A. Walker 1985,70.308963,-148.9395,,,,,1,,,#0000ff
-1b,pru_dw_padf,prudhoe_dwalker_padf,D.A. Walker 1985,70.333352,-148.769,,,,,1,,,#0000ff
-1c,pru_dw_ap,prudhoe_dwalker_angelpingo,D.A. Walker 1985,70.289933,-148.7597,,,,,1,,,#0000ff
-1d,pru_dw_pr,prudhoe_dwalker_putuligayukriver,D.A. Walker 1985,70.267395,-148.6436,,,,,1,,,#0000ff
-1e,pru_dw_ibp,prudhoe_dwalker_ibptundrabiome,D.A. Walker 1985,70.251461,-148.5976,,,,,1,,,#0000ff
-1f,pru_dw_ds2,prudhoe_dwalker_drillsite2,D.A. Walker 1985,70.267833,-148.4931,,,,,1,,,#0000ff
-1g,pru_dw_sd,prudhoe_dwalker_sanddunes,D.A. Walker 1985,70.283268,-148.2865,,,,,1,,,#0000ff
-1h,pru_dw_ed,prudhoe_dwalker_eastdock,D.A. Walker 1985,70.310594,-148.3199,,,,,1,,,#0000ff
-1i,pru_dw_wd,prudhoe_dwalker_westdock,D.A. Walker 1985,70.371568,-148.538,,,,,1,,,#0000ff
-2,png_mw,pingos_mwalker (4 locations),M.D. Walker 1990,70.269518,-148.5739,293,Pingos(PNG_MW).jpg,,,0,,,#ff0000
-2a,png_mw_pru,pingos_mwalker_prudhoe,M.D. Walker 1990,70.269778,-148.5734,,,,,2,,,#0000ff
-2b,png_mw_kup,pingos_mwalker_kuparuk,M.D. Walker 1990,70.326657,-149.5936,,,,,2,,,#0000ff
-2c,png_mw_kad,pingos_mwalker_kadleroshilik,M.D. Walker 1990,70.054461,-147.4913,,,,,2,,,#0000ff
-2d,png_mw_tr,pingos_mwalker_toolikriver,M.D. Walker 1990,69.781958,-149.1333,,,,,2,,,#0000ff
-3,fb_ak,frostboils_kade (7 locations),Kade et al. 2005 (data in Barreda et al. 2006),69.674394,-148.721,117,Frost Boils (FB_AK).jpg,,,0,,,#ff0000
-3a,fb_ak_hi,frostboils_akade_howeisland,Kade et al. 2005,70.315056,-147.9937,,,,,3,,,#0000ff
-3b,fb_ak_wd,frostboils_akade_westdock,Kade et al. 2005,70.374612,-148.5534,,,,,3,,,#0000ff
-3c,fb_ak_dh,frostboils_akade_deadhorse,Kade et al. 2005,70.161361,-148.4671,,,,,3,,,#0000ff
-3d,fb_ak_fb,frostboils_akade_franklinbluffs,Kade et al. 2005,69.674111,-148.7173,,,,,3,,,#0000ff
-3e,fb_ak_sagn,frostboils_akade_sagwonnonacidic,Kade et al. 2005,69.433583,-148.6718,,,,,3,,,#0000ff
-3f,fb_ak_saga,frostboils_akade_sagwonacidic,Kade et al. 2005,69.4255,-148.696,,,,,3,,,#0000ff
-3g,fb_ak_hv,frostboils_akade_happyvalley,Kade et al. 2005,69.147,-148.847,,,,,3,,,#0000ff
-4,hv_dw,happyvalley_dwalker,Walker et al. 1997,69.147861,-148.8428,55,Happy Valley (HV_SW).jpg,,,0,hidden,,#ff0000
-5,ic_dw,imnavaitcreek_dwalker,Walker et al. 1987,68.6178,-149.3035,73,Imnavait Creek (IC_SW).jpg,,,0,hidden,,#ff0000
-6,tl_dw,tooliklake_dwalker,Walker & Barry 1991,68.62851,-149.5917,81,ToolikLake (TL_SW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/6803-alaska-arctic-vegetation-archive-toolik-lake-v,/aava-toolik-lake,0,,,#ff0000
-7,wllw_us,willows_uschickhoff (70 locations),Schickhoff et al. 2002,68.794047,-148.8258,85,Willows(WLLW_US).jpg,,,0,hidden,,#ff0000
-8,pop_ab,poplars_abreen (19 locations),Breen 2014,69.104194,-147.9131,19,Poplars (POP_AB).jpg,,,0,hidden,,#ff0000
-9,ap_dc,arrigetchpeaks_dcooper,Cooper 1983,67.430651,-154.1278,373,ArrigetchPeaks(AP_DC).jpg,,,0,hidden,,#ff0000
-10,brw_pw,barrow_pwebber,Webber 1978,71.29327,-156.6875,33,,,,0,hidden,hidden,#0000ff
-11,leg-dw,legacy_dwalker (2 locations),Walker et al 1996 (in Elias et al. 1996),71.322901,-156.617,61,,,,0,,hidden,#0000ff
-11a,leg-dw_brw,legacy_dwalker_barrow,Walker et al 1996 (in Elias et al. 1996),71.322862,-156.6154,,,,,11,,,#0000ff
-11b,leg-dw_bi,legacy_dwalker_barterisland,Walker et al 1996 (in Elias et al. 1996),70.130793,-143.6374,,,,,11,,,#0000ff
-12,atq_vk,atqasuk_vkomarkova,Komarkova & Webber 1980; Villareal et al. (unpublished),70.44802,-157.3592,73,,,,0,hidden,hidden,#0000ff
-13,oum_je,oumalik_jebersole,Ebersole 1985,69.842885,-155.9885,87,,,,0,hidden,hidden,#0000ff
-14,atl1_dw,atlas1_dwalker (4 locations),,68.482394,-155.752,64,,,,0,,hidden,#0000ff
-14a,atl1_dw_brw,atlas1_dwalker_barrow,Edwards et al. 2000,71.321631,-156.6083,,,,,14,,,#0000ff
-14b,atl1_dw_atq,atlas1_dwalker_atqasuk,Edwards et al. 2000,70.46517,-157.4519,,,,,14,,,#0000ff
-14c,atl1_dw_oum,atlas1_dwalker_oumalik,Edwards et al. 2000,69.736552,-155.871,,,,,14,,,#0000ff
-14d,atl1_dw_ivo,atlas1_dwalker_ivotuk,Edwards et al. 2000,68.481338,-155.75,,,,,14,,,#0000ff
-15,atl2_dw,atlas2_dwalker (2 locations),,64.893661,-163.6703,,,,,0,,,#0000ff
-15a,atl2_dw_cnl,atlas2_dwalker_council,Raynolds et al. 2002,64.893661,-163.6703,,,,,15,,,#0000ff
-15b,atl2_dw_qc,atlas2_dwalker_quartzcreek,Raynolds et al. 2002,65.402104,-164.6544,,,,,15,,,#0000ff
-16,crd_mJ,colvilleriverdelta_mjorgenson,Jorgenson et al. 1997,70.292594,-150.9901,293,,,,0,hidden,hidden,#0000ff
-17,ykd_mJ,yukonkuskokwimdelta_mjorgenson,Jorgenson et al. 2000,61.252657,-165.3406,65,,,,0,hidden,hidden,#0000ff
-18,iwd-mj,icewedgedegradation_mjorgenson (4 locations),"Jorgenson et al., no date",70.225454,-148.3939,50,,,,0,,hidden,#0000ff
-18a,iwd-mj_brw,icewedgedegradation_mjorgenson_barrow,"Jorgenson et al., no date",71.324333,-156.6801,,,,,18,,,#0000ff
-18b,iwd-mj_pru,icewedgedegradation_mjorgenson_prudhoe,"Jorgenson et al., no date",70.225958,-148.397,,,,,18,,,#0000ff
-18c,iwd-mj_cr,icewedgedegradation_mjorgenson_colvilleriver,"Jorgenson et al., no date",69.697347,-151.5275,,,,,18,,,#0000ff
-18d,iwd-mj_anwr,icewedgedegradation_mjorgenson_anwr,"Jorgenson et al., no date",70.123387,-143.6125,,,,,18,,,#0000ff
-19,npra-mj,npra_mjorgenson,Jorgenson 2003,70.332379,-151.8706,285,,,,19,,,#0000ff
-20,an-mj,arcticnetwork_mjorgenson (5 locations),0,68.098941,-159.6351,763,,,,0,,,#0000ff
-20a,an-mj_goa,arcticnetwork_mjorgenson_gatesofarctic,Jorgenson et al. 2009a,67.958101,-152.0436,,,,,20,,,#0000ff
-20b,an-mj_ntkr,arcticnetwork_mjorgenson_noatakriver,Jorgenson et al. 2009a,68.098941,-159.6351,,,,,20,,,#0000ff
-20c,an-mj_kv,arcticnetwork_mjorgenson_kobukvalley,Jorgenson et al. 2009a,67.069387,-158.8912,,,,,20,,,#0000ff
-20d,an-mj_ck,arcticnetwork_mjorgenson_capekrusenstern,Jorgenson et al. 2009a,67.418622,-163.5283,,,,,20,,,#0000ff
-20e,an-mj_blg,arcticnetwork_mjorgenson_beringlandbridge,Jorgenson et al. 2009a,65.803177,-164.5114,,,,,20,,,#0000ff
-21,snrw_mj,selawiknationalwildliferefuge_mjorgenson,Jorgenson et al. 2009b,66.603128,-160.0132,275,,,,0,hidden,hidden,#0000ff
-22,umi_ec,umiat_echurchill,Churchhill 1955,69.366767,-152.1411,78,,,,0,hidden,hidden,#0000ff
-23,fc_vk,fishcreek_vkomarkova,Lawson 1982,70.311352,-151.874,15,,,,0,hidden,hidden,#0000ff
-24,nom_wh,nome_whanson,Hanson 1953,64.503629,-165.3969,8,,,,0,hidden,hidden,#0000ff
-25,wa-wh,westernalaska_whanson,Hanson 1951,66.898228,-162.5991,21,,,,0,hidden,hidden,#0000ff
-26,ct_aj,capethompson_ajohnson,Johnson et al. 1966,68.097237,-165.7381,54,,,,0,hidden,hidden,#0000ff
-27,swa_st,swalaska_stalbot (8 general locations),Talbot (in progress),53.889299,-166.5377,,,,,0,,hidden,#0000ff
-27a,swa_st_eai,swalaska_stalbot_easternaleutianislands,Talbot et al. 2010a,53.894485,-166.5423,70,,,,27,,,#0000ff
-27b,swa_st_cai,swalaska_stalbot_centralaleutianislands,,51.863788,-176.6364,,,,,27,,,#0000ff
-27c,swa_st_wai,swalaska_stalbot_westernaleutianislands,Talbot & Talbot 1994,52.832396,-173.1797,76,,,,27,,,#0000ff
-27d,swa_st_niap,swalaska_stalbot_neighborislandsalaskapeninsula,"Talbot & Talbot 2008, Daniels et al. 2004",54.893743,-159.272,30,,,,27,,,#0000ff
-27e,swa_st_ap,swalaska_stalbot_alaskapeninsulabecharofnwr,,58.085882,-156.4305,,,,,27,,,#0000ff
-27f,swa_st_inwr,swalaska_stalbot_izembeknwr,,55.28674,-162.6811,,,,,27,,,#0000ff
-27g,swa_st_kdka,swalaska_stalbot_kodiakarchipelago,,57.659969,-153.6363,,,,,27,,,#0000ff
-27h,swa_st_snwr,swalaska_stalbot_selawiknwr,,66.580622,-159.173,,,,,27,,,#0000ff
-28,anhp_kb,alaskanaturalheritagprogram_kboggs,,70.332379,-151.8706,,,,,28,,,#0000ff
+index,code,title,source,lat,lon,plots,photo,url,detailed_map_url,group,url_class,img_class,marker-color,marker-symbol
+1,pru_dw,prudhoe_dwalker (9 locations),D.A. Walker 1985,70.25177,-148.5973,92,Prudhoe Bay (PRU_SW).jpg,,/aava-data-1,0,,,#ff0000,circle
+1a,pru_dw_kr,prudhoe_dwalker_kuparukriver,D.A. Walker 1985,70.308963,-148.9395,,,,,1,,,#000,square
+1b,pru_dw_padf,prudhoe_dwalker_padf,D.A. Walker 1985,70.333352,-148.769,,,,,1,,,#000,square
+1c,pru_dw_ap,prudhoe_dwalker_angelpingo,D.A. Walker 1985,70.289933,-148.7597,,,,,1,,,#000,square
+1d,pru_dw_pr,prudhoe_dwalker_putuligayukriver,D.A. Walker 1985,70.267395,-148.6436,,,,,1,,,#000,square
+1e,pru_dw_ibp,prudhoe_dwalker_ibptundrabiome,D.A. Walker 1985,70.251461,-148.5976,,,,,1,,,#000,square
+1f,pru_dw_ds2,prudhoe_dwalker_drillsite2,D.A. Walker 1985,70.267833,-148.4931,,,,,1,,,#000,square
+1g,pru_dw_sd,prudhoe_dwalker_sanddunes,D.A. Walker 1985,70.283268,-148.2865,,,,,1,,,#000,square
+1h,pru_dw_ed,prudhoe_dwalker_eastdock,D.A. Walker 1985,70.310594,-148.3199,,,,,1,,,#000,square
+1i,pru_dw_wd,prudhoe_dwalker_westdock,D.A. Walker 1985,70.371568,-148.538,,,,,1,,,#000,square
+2,png_mw,pingos_mwalker (4 locations),M.D. Walker 1990,70.269518,-148.5739,293,Pingos(PNG_MW).jpg,,,0,,,#ff0000,circle
+2a,png_mw_pru,pingos_mwalker_prudhoe,M.D. Walker 1990,70.269778,-148.5734,,,,,2,,,#000,square
+2b,png_mw_kup,pingos_mwalker_kuparuk,M.D. Walker 1990,70.326657,-149.5936,,,,,2,,,#000,square
+2c,png_mw_kad,pingos_mwalker_kadleroshilik,M.D. Walker 1990,70.054461,-147.4913,,,,,2,,,#000,square
+2d,png_mw_tr,pingos_mwalker_toolikriver,M.D. Walker 1990,69.781958,-149.1333,,,,,2,,,#000,square
+3,fb_ak,frostboils_kade (7 locations),Kade et al. 2005 (data in Barreda et al. 2006),69.674394,-148.721,117,Frost Boils (FB_AK).jpg,,,0,,,#ff0000,circle
+3a,fb_ak_hi,frostboils_akade_howeisland,Kade et al. 2005,70.315056,-147.9937,,,,,3,,,#000,square
+3b,fb_ak_wd,frostboils_akade_westdock,Kade et al. 2005,70.374612,-148.5534,,,,,3,,,#000,square
+3c,fb_ak_dh,frostboils_akade_deadhorse,Kade et al. 2005,70.161361,-148.4671,,,,,3,,,#000,square
+3d,fb_ak_fb,frostboils_akade_franklinbluffs,Kade et al. 2005,69.674111,-148.7173,,,,,3,,,#000,square
+3e,fb_ak_sagn,frostboils_akade_sagwonnonacidic,Kade et al. 2005,69.433583,-148.6718,,,,,3,,,#000,square
+3f,fb_ak_saga,frostboils_akade_sagwonacidic,Kade et al. 2005,69.4255,-148.696,,,,,3,,,#000,square
+3g,fb_ak_hv,frostboils_akade_happyvalley,Kade et al. 2005,69.147,-148.847,,,,,3,,,#000,square
+4,hv_dw,happyvalley_dwalker,Walker et al. 1997,69.147861,-148.8428,55,Happy Valley (HV_SW).jpg,,,0,hidden,,#ff0000,circle
+5,ic_dw,imnavaitcreek_dwalker,Walker et al. 1987,68.6178,-149.3035,73,Imnavait Creek (IC_SW).jpg,,,0,hidden,,#ff0000,circle
+6,tl_dw,tooliklake_dwalker,Walker & Barry 1991,68.62851,-149.5917,81,ToolikLake (TL_SW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/6803-alaska-arctic-vegetation-archive-toolik-lake-v,/aava-toolik-lake,0,,,#ff0000,circle
+7,wllw_us,willows_uschickhoff (70 locations),Schickhoff et al. 2002,68.794047,-148.8258,85,Willows(WLLW_US).jpg,,,0,hidden,,#ff0000,circle
+8,pop_ab,poplars_abreen (19 locations),Breen 2014,69.104194,-147.9131,19,Poplars (POP_AB).jpg,,,0,hidden,,#ff0000,circle
+9,ap_dc,arrigetchpeaks_dcooper,Cooper 1983,67.430651,-154.1278,373,ArrigetchPeaks(AP_DC).jpg,,,0,hidden,,#ff0000,circle
+10,brw_pw,barrow_pwebber,Webber 1978,71.29327,-156.6875,33,,,,0,hidden,hidden,#000,square
+11,leg-dw,legacy_dwalker (2 locations),Walker et al 1996 (in Elias et al. 1996),71.322901,-156.617,61,,,,0,,hidden,#000,square
+11a,leg-dw_brw,legacy_dwalker_barrow,Walker et al 1996 (in Elias et al. 1996),71.322862,-156.6154,,,,,11,,,#000,square
+11b,leg-dw_bi,legacy_dwalker_barterisland,Walker et al 1996 (in Elias et al. 1996),70.130793,-143.6374,,,,,11,,,#000,square
+12,atq_vk,atqasuk_vkomarkova,Komarkova & Webber 1980; Villareal et al. (unpublished),70.44802,-157.3592,73,,,,0,hidden,hidden,#000,square
+13,oum_je,oumalik_jebersole,Ebersole 1985,69.842885,-155.9885,87,,,,0,hidden,hidden,#000,square
+14,atl1_dw,atlas1_dwalker (4 locations),,68.482394,-155.752,64,,,,0,,hidden,#000,square
+14a,atl1_dw_brw,atlas1_dwalker_barrow,Edwards et al. 2000,71.321631,-156.6083,,,,,14,,,#000,square
+14b,atl1_dw_atq,atlas1_dwalker_atqasuk,Edwards et al. 2000,70.46517,-157.4519,,,,,14,,,#000,square
+14c,atl1_dw_oum,atlas1_dwalker_oumalik,Edwards et al. 2000,69.736552,-155.871,,,,,14,,,#000,square
+14d,atl1_dw_ivo,atlas1_dwalker_ivotuk,Edwards et al. 2000,68.481338,-155.75,,,,,14,,,#000,square
+15,atl2_dw,atlas2_dwalker (2 locations),,64.893661,-163.6703,,,,,0,,,#000,square
+15a,atl2_dw_cnl,atlas2_dwalker_council,Raynolds et al. 2002,64.893661,-163.6703,,,,,15,,,#000,square
+15b,atl2_dw_qc,atlas2_dwalker_quartzcreek,Raynolds et al. 2002,65.402104,-164.6544,,,,,15,,,#000,square
+16,crd_mJ,colvilleriverdelta_mjorgenson,Jorgenson et al. 1997,70.292594,-150.9901,293,,,,0,hidden,hidden,#000,square
+17,ykd_mJ,yukonkuskokwimdelta_mjorgenson,Jorgenson et al. 2000,61.252657,-165.3406,65,,,,0,hidden,hidden,#000,square
+18,iwd-mj,icewedgedegradation_mjorgenson (4 locations),"Jorgenson et al., no date",70.225454,-148.3939,50,,,,0,,hidden,#000,square
+18a,iwd-mj_brw,icewedgedegradation_mjorgenson_barrow,"Jorgenson et al., no date",71.324333,-156.6801,,,,,18,,,#000,square
+18b,iwd-mj_pru,icewedgedegradation_mjorgenson_prudhoe,"Jorgenson et al., no date",70.225958,-148.397,,,,,18,,,#000,square
+18c,iwd-mj_cr,icewedgedegradation_mjorgenson_colvilleriver,"Jorgenson et al., no date",69.697347,-151.5275,,,,,18,,,#000,square
+18d,iwd-mj_anwr,icewedgedegradation_mjorgenson_anwr,"Jorgenson et al., no date",70.123387,-143.6125,,,,,18,,,#000,square
+19,npra-mj,npra_mjorgenson,Jorgenson 2003,70.332379,-151.8706,285,,,,19,,,#000,square
+20,an-mj,arcticnetwork_mjorgenson (5 locations),0,68.098941,-159.6351,763,,,,0,,,#000,square
+20a,an-mj_goa,arcticnetwork_mjorgenson_gatesofarctic,Jorgenson et al. 2009a,67.958101,-152.0436,,,,,20,,,#000,square
+20b,an-mj_ntkr,arcticnetwork_mjorgenson_noatakriver,Jorgenson et al. 2009a,68.098941,-159.6351,,,,,20,,,#000,square
+20c,an-mj_kv,arcticnetwork_mjorgenson_kobukvalley,Jorgenson et al. 2009a,67.069387,-158.8912,,,,,20,,,#000,square
+20d,an-mj_ck,arcticnetwork_mjorgenson_capekrusenstern,Jorgenson et al. 2009a,67.418622,-163.5283,,,,,20,,,#000,square
+20e,an-mj_blg,arcticnetwork_mjorgenson_beringlandbridge,Jorgenson et al. 2009a,65.803177,-164.5114,,,,,20,,,#000,square
+21,snrw_mj,selawiknationalwildliferefuge_mjorgenson,Jorgenson et al. 2009b,66.603128,-160.0132,275,,,,0,hidden,hidden,#000,square
+22,umi_ec,umiat_echurchill,Churchhill 1955,69.366767,-152.1411,78,,,,0,hidden,hidden,#000,square
+23,fc_vk,fishcreek_vkomarkova,Lawson 1982,70.311352,-151.874,15,,,,0,hidden,hidden,#000,square
+24,nom_wh,nome_whanson,Hanson 1953,64.503629,-165.3969,8,,,,0,hidden,hidden,#000,square
+25,wa-wh,westernalaska_whanson,Hanson 1951,66.898228,-162.5991,21,,,,0,hidden,hidden,#000,square
+26,ct_aj,capethompson_ajohnson,Johnson et al. 1966,68.097237,-165.7381,54,,,,0,hidden,hidden,#000,square
+27,swa_st,swalaska_stalbot (8 general locations),Talbot (in progress),53.889299,-166.5377,,,,,0,,hidden,#000,square
+27a,swa_st_eai,swalaska_stalbot_easternaleutianislands,Talbot et al. 2010a,53.894485,-166.5423,70,,,,27,,,#000,square
+27b,swa_st_cai,swalaska_stalbot_centralaleutianislands,,51.863788,-176.6364,,,,,27,,,#000,square
+27c,swa_st_wai,swalaska_stalbot_westernaleutianislands,Talbot & Talbot 1994,52.832396,-173.1797,76,,,,27,,,#000,square
+27d,swa_st_niap,swalaska_stalbot_neighborislandsalaskapeninsula,"Talbot & Talbot 2008, Daniels et al. 2004",54.893743,-159.272,30,,,,27,,,#000,square
+27e,swa_st_ap,swalaska_stalbot_alaskapeninsulabecharofnwr,,58.085882,-156.4305,,,,,27,,,#000,square
+27f,swa_st_inwr,swalaska_stalbot_izembeknwr,,55.28674,-162.6811,,,,,27,,,#000,square
+27g,swa_st_kdka,swalaska_stalbot_kodiakarchipelago,,57.659969,-153.6363,,,,,27,,,#000,square
+27h,swa_st_snwr,swalaska_stalbot_selawiknwr,,66.580622,-159.173,,,,,27,,,#000,square
+28,anhp_kb,alaskanaturalheritagprogram_kboggs,,70.332379,-151.8706,,,,,28,,,#000,square
