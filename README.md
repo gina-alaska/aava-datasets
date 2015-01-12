@@ -20,6 +20,8 @@ Quick location to store the basic data and documentation on how to convert the g
 
 Google Doc: https://docs.google.com/a/alaska.edu/spreadsheets/d/1MphOrOIdkEd3kh4FaL-ioqNXhLOvK0TtJxiB_ImLkhM/edit#gid=0
 
+Ubermap Edit: http://ubermap.gina.alaska.edu/geojson_layers/5/edit
+
 Convert command
 
     yak geojson -f -p EPSG:4326 *.vrt  
@@ -27,6 +29,8 @@ Convert command
 ## HAPPYVALLEY_TVEXPORT
 
 Google Doc: https://docs.google.com/a/alaska.edu/spreadsheets/d/1iMOmNztuj0rQ0Wyyv3NrWZ9p5Qqv59TsimmcSwnQhcE/edit#gid=0
+
+Ubermap Edit: http://ubermap.gina.alaska.edu/geojson_layers/6/edit
 
 Convert command
 
