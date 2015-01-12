@@ -9,7 +9,7 @@ index,code,title,source,lat,lon,plots,photo,url,detailed_map_url,group,url_class
 1g,pru_dw_sd,prudhoe_dwalker_sanddunes,D.A. Walker 1985,70.283268,-148.2865,,,,,1,,,#000,square
 1h,pru_dw_ed,prudhoe_dwalker_eastdock,D.A. Walker 1985,70.310594,-148.3199,,,,,1,,,#000,square
 1i,pru_dw_wd,prudhoe_dwalker_westdock,D.A. Walker 1985,70.371568,-148.538,,,,,1,,,#000,square
-2,png_mw,pingos_mwalker (4 locations),M.D. Walker 1990,70.269518,-148.5739,293,Pingos(PNG_MW).jpg,,,0,,,#ff0000,circle
+2,png_mw,pingos_mwalker (4 locations),M.D. Walker 1990,70.269518,-148.5739,293,Pingos(PNG_MW).jpg,,,0,,,#000,square
 2a,png_mw_pru,pingos_mwalker_prudhoe,M.D. Walker 1990,70.269778,-148.5734,,,,,2,,,#000,square
 2b,png_mw_kup,pingos_mwalker_kuparuk,M.D. Walker 1990,70.326657,-149.5936,,,,,2,,,#000,square
 2c,png_mw_kad,pingos_mwalker_kadleroshilik,M.D. Walker 1990,70.054461,-147.4913,,,,,2,,,#000,square
@@ -22,12 +22,12 @@ index,code,title,source,lat,lon,plots,photo,url,detailed_map_url,group,url_class
 3e,fb_ak_sagn,frostboils_akade_sagwonnonacidic,Kade et al. 2005,69.433583,-148.6718,,,,,3,,,#000,square
 3f,fb_ak_saga,frostboils_akade_sagwonacidic,Kade et al. 2005,69.4255,-148.696,,,,,3,,,#000,square
 3g,fb_ak_hv,frostboils_akade_happyvalley,Kade et al. 2005,69.147,-148.847,,,,,3,,,#000,square
-4,hv_dw,happyvalley_dwalker,Walker et al. 1997,69.147861,-148.8428,55,Happy Valley (HV_SW).jpg,,,0,hidden,,#ff0000,circle
-5,ic_dw,imnavaitcreek_dwalker,Walker et al. 1987,68.6178,-149.3035,73,Imnavait Creek (IC_SW).jpg,,,0,hidden,,#ff0000,circle
+4,hv_dw,happyvalley_dwalker,Walker et al. 1997,69.147861,-148.8428,55,Happy Valley (HV_SW).jpg,,/aava-happyvalley,0,,,#ff0000,circle
+5,ic_dw,imnavaitcreek_dwalker,Walker et al. 1987,68.6178,-149.3035,73,Imnavait Creek (IC_SW).jpg,,/aava-imnavait-creek,0,,,#ff0000,circle
 6,tl_dw,tooliklake_dwalker,Walker & Barry 1991,68.62851,-149.5917,81,ToolikLake (TL_SW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/6803-alaska-arctic-vegetation-archive-toolik-lake-v,/aava-toolik-lake,0,,,#ff0000,circle
 7,wllw_us,willows_uschickhoff (70 locations),Schickhoff et al. 2002,68.794047,-148.8258,85,Willows(WLLW_US).jpg,,,0,hidden,,#ff0000,circle
 8,pop_ab,poplars_abreen (19 locations),Breen 2014,69.104194,-147.9131,19,Poplars (POP_AB).jpg,,,0,hidden,,#ff0000,circle
-9,ap_dc,arrigetchpeaks_dcooper,Cooper 1983,67.430651,-154.1278,373,ArrigetchPeaks(AP_DC).jpg,,,0,hidden,,#ff0000,circle
+9,ap_dc,arrigetchpeaks_dcooper,Cooper 1983,67.430651,-154.1278,373,ArrigetchPeaks(AP_DC).jpg,,,0,hidden,,#000,square
 10,brw_pw,barrow_pwebber,Webber 1978,71.29327,-156.6875,33,,,,0,hidden,hidden,#000,square
 11,leg-dw,legacy_dwalker (2 locations),Walker et al 1996 (in Elias et al. 1996),71.322901,-156.617,61,,,,0,,hidden,#000,square
 11a,leg-dw_brw,legacy_dwalker_barrow,Walker et al 1996 (in Elias et al. 1996),71.322862,-156.6154,,,,,11,,,#000,square

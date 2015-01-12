@@ -1,0 +1,8 @@
+<OGRVRTDataSource>
+    <OGRVRTLayer name="HAPPYVALLEY_TVEXPORT">
+        <SrcDataSource>HAPPYVALLEY_TVEXPORT.csv</SrcDataSource>
+        <GeometryType>wkbPoint</GeometryType>
+        <LayerSRS>WGS84</LayerSRS>
+        <GeometryField encoding="PointFromColumns" x="lon" y="lat"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>
