@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "index": "15a", "code": "atl2_dw_cnl", "title": "atlas2_dwalker_council", "source": "Raynolds et al. 2002", "lat": "64.893661", "lon": "-163.6703", "plots": "", "photo": "", "url": "", "detailed_map_url": "", "group": "15", "url_class": "", "img_class": "", "marker-color": "#000", "marker-symbol": "square" }, "geometry": { "type": "Point", "coordinates": [ -163.6703, 64.893661 ] } },
-{ "type": "Feature", "properties": { "index": "15b", "code": "atl2_dw_qc", "title": "atlas2_dwalker_quartzcreek", "source": "Raynolds et al. 2002", "lat": "65.402104", "lon": "-164.6544", "plots": "", "photo": "", "url": "", "detailed_map_url": "", "group": "15", "url_class": "", "img_class": "", "marker-color": "#000", "marker-symbol": "square" }, "geometry": { "type": "Point", "coordinates": [ -164.6544, 65.402104 ] } }
+{ "type": "Feature", "properties": { "index": "15a", "code": "leg-dw_brw", "title": "legacy_dwalker_barrow", "source": "Walker et al 1996 (in Elias et al. 1996)", "lat": "71.322862", "lon": "-156.6154", "plots": "", "photo": "", "url": "", "detailed_map_url": "", "group": "15", "url_class": "", "img_class": "", "marker-color": " ", "marker-symbol": "square" }, "geometry": { "type": "Point", "coordinates": [ -156.6154, 71.322862 ] } },
+{ "type": "Feature", "properties": { "index": "15b", "code": "leg-dw_bi", "title": "legacy_dwalker_barterisland", "source": "Walker et al 1996 (in Elias et al. 1996)", "lat": "70.130793", "lon": "-143.6374", "plots": "", "photo": "", "url": "", "detailed_map_url": "", "group": "15", "url_class": "", "img_class": "", "marker-color": " ", "marker-symbol": "square" }, "geometry": { "type": "Point", "coordinates": [ -143.6374, 70.130793 ] } }
 ]
 }

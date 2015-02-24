@@ -1,2 +1,2 @@
-download: curl -L "https://docs.google.com/a/alaska.edu/spreadsheets/d/1ZJwLMz2r4KO5uvCdRo_1hjlV8P-NdMJ1IIsbtq-gC7s/export?exportFormat=csv#gid=0" > AAVA_Datasets_Groups.csv
+download: curl -L "https://docs.google.com/a/alaska.edu/spreadsheets/d/1ZJwLMz2r4KO5uvCdRo_1hjlV8P-NdMJ1IIsbtq-gC7s/export?exportFormat=csv#gid=0" > AAVA_Datasets_Grouped.csv
 convert: yak geojson -f -p EPSG:4326 -s group AAVA_Datasets_Grouped.vrt

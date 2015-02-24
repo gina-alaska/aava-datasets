@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "index": "4a", "code": "atl1_dw_brw", "title": "atlas1_dwalker_barrow", "source": "Edwards et al. 2000", "lat": "71.321631", "lon": "-156.6083", "plots": "", "photo": "", "url": "", "detailed_map_url": "", "group": "4", "url_class": "", "img_class": "", "marker-color": " ", "marker-symbol": "square" }, "geometry": { "type": "Point", "coordinates": [ -156.6083, 71.321631 ] } },
+{ "type": "Feature", "properties": { "index": "4b", "code": "atl1_dw_atq", "title": "atlas1_dwalker_atqasuk", "source": "Edwards et al. 2000", "lat": "70.46517", "lon": "-157.4519", "plots": "", "photo": "", "url": "", "detailed_map_url": "", "group": "4", "url_class": "", "img_class": "", "marker-color": " ", "marker-symbol": "square" }, "geometry": { "type": "Point", "coordinates": [ -157.4519, 70.46517 ] } },
+{ "type": "Feature", "properties": { "index": "4c", "code": "atl1_dw_oum", "title": "atlas1_dwalker_oumalik", "source": "Edwards et al. 2000", "lat": "69.736552", "lon": "-155.871", "plots": "", "photo": "", "url": "", "detailed_map_url": "", "group": "4", "url_class": "", "img_class": "", "marker-color": " ", "marker-symbol": "square" }, "geometry": { "type": "Point", "coordinates": [ -155.871, 69.736552 ] } },
+{ "type": "Feature", "properties": { "index": "4d", "code": "atl1_dw_ivo", "title": "atlas1_dwalker_ivotuk", "source": "Edwards et al. 2000", "lat": "68.481338", "lon": "-155.75", "plots": "", "photo": "", "url": "", "detailed_map_url": "", "group": "4", "url_class": "", "img_class": "", "marker-color": " ", "marker-symbol": "square" }, "geometry": { "type": "Point", "coordinates": [ -155.75, 68.481338 ] } }
+]
+}
