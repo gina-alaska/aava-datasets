@@ -28,7 +28,7 @@ Convert command
 
 ## HAPPYVALLEY_TVEXPORT
 
-Google Doc: https://docs.google.com/a/alaska.edu/spreadsheets/d/1iMOmNztuj0rQ0Wyyv3NrWZ9p5Qqv59TsimmcSwnQhcE/edit#gid=0
+Google Doc: https://docs.google.com/a/alaska.edu/spreadsheets/d/1MEujZvicnEYZSs0XbI57kevMcSMlVbpPI0qD84zReJk/edit#gid=899663236
 
 Ubermap Edit: http://ubermap.gina.alaska.edu/geojson_layers/6/edit
 
