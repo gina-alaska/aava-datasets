@@ -1,0 +1,2 @@
+download: curl -L "https://docs.google.com/a/alaska.edu/spreadsheets/d/1MEujZvicnEYZSs0XbI57kevMcSMlVbpPI0qD84zReJk/export?exportFormat=csv#gid=899663236" > HAPPYVALLEY_TVEXPORT.csv
+convert: yak geojson -f -p EPSG:4326 *.vrt
