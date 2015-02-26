@@ -5,14 +5,14 @@ index,code,title,source,lat,lon,plots,photo,url,detailed_map_url,group,url_class
 1c,an-mj_kv,arcticnetwork_mjorgenson_kobukvalley,Jorgenson et al. 2009a,67.069387,-158.8912,,,,,1,,, ,square
 1d,an-mj_ck,arcticnetwork_mjorgenson_capekrusenstern,Jorgenson et al. 2009a,67.418622,-163.5283,,,,,1,,, ,square
 1e,an-mj_blg,arcticnetwork_mjorgenson_beringlandbridge,Jorgenson et al. 2009a,65.803177,-164.5114,,,,,1,,, ,square
-2,ap_dc,arrigetchpeaks_dcooper,Cooper 1983,67.430651,-154.1278,373,ArrigetchPeaks(AP_DC).jpg,,,0,hidden,,#E6E600,square
+2,ap_dc,arrigetchpeaks_dcooper,Cooper 1983,67.430651,-154.1278,373,ArrigetchPeaks(AP_DC).jpg,,,0,hidden,,#fc3,square
 3,anhp_kb,alaskanaturalheritagprogram_kboggs,,70.332379,-151.8706,,,,,0,,,#555555,square
-4,atl1_dw,atlas1_dwalker (4 locations),,68.482394,-155.752,64,,,,0,,hidden,#E6E600,square
+4,atl1_dw,atlas1_dwalker (4 locations),,68.482394,-155.752,64,,,,0,,hidden,#fc3,square
 4a,atl1_dw_brw,atlas1_dwalker_barrow,Edwards et al. 2000,71.321631,-156.6083,,,,,4,,, ,square
 4b,atl1_dw_atq,atlas1_dwalker_atqasuk,Edwards et al. 2000,70.46517,-157.4519,,,,,4,,, ,square
 4c,atl1_dw_oum,atlas1_dwalker_oumalik,Edwards et al. 2000,69.736552,-155.871,,,,,4,,, ,square
 4d,atl1_dw_ivo,atlas1_dwalker_ivotuk,Edwards et al. 2000,68.481338,-155.75,,,,,4,,, ,square
-5,atl2_dw,atlas2_dwalker (2 locations),,64.893661,-163.6703,,,,,0,,,#E6E600,square
+5,atl2_dw,atlas2_dwalker (2 locations),,64.893661,-163.6703,,,,,0,,,#fc3,square
 5a,atl2_dw_cnl,atlas2_dwalker_council,Raynolds et al. 2002,64.893661,-163.6703,,,,,5,,, ,square
 5b,atl2_dw_qc,atlas2_dwalker_quartzcreek,Raynolds et al. 2002,65.402104,-164.6544,,,,,5,,, ,square
 6,atq_vk,atqasuk_vkomarkova,Komarkova & Webber 1980; Villarreal et al. (unpublished),70.44802,-157.3592,73,,,,0,hidden,hidden,#555555,square
@@ -35,13 +35,13 @@ index,code,title,source,lat,lon,plots,photo,url,detailed_map_url,group,url_class
 13c,iwd-mj_cr,icewedgedegradation_mjorgenson_colvilleriver,"Jorgenson et al., no date",69.697347,-151.5275,,,,,13,,, ,square
 13d,iwd-mj_anwr,icewedgedegradation_mjorgenson_anwr,"Jorgenson et al., no date",70.123387,-143.6125,,,,,13,,, ,square
 14,ic_dw,imnavaitcreek_dwalker,Walker et al. 1987,68.6178,-149.3035,73,Imnavait Creek (IC_SW).jpg,,/aava-imnavait-creek,0,,,#5CE65C,square
-15,leg-dw,legacy_dwalker (2 locations),Walker et al 1996 (in Elias et al. 1996),71.322901,-156.617,61,,,,0,,hidden,#E6E600,square
+15,leg-dw,legacy_dwalker (2 locations),Walker et al 1996 (in Elias et al. 1996),71.322901,-156.617,61,,,,0,,hidden,#fc3,square
 15a,leg-dw_brw,legacy_dwalker_barrow,Walker et al 1996 (in Elias et al. 1996),71.322862,-156.6154,,,,,15,,, ,square
 15b,leg-dw_bi,legacy_dwalker_barterisland,Walker et al 1996 (in Elias et al. 1996),70.130793,-143.6374,,,,,15,,, ,square
 16,npra-mj,npra_mjorgenson,Jorgenson 2003,70.332379,-151.8706,285,,,,16,,, ,square
 17,nom_wh,nome_whanson,Hanson 1953,64.503629,-165.3969,8,,,,0,hidden,hidden,#555555,square
 18,oum_je,oumalik_jebersole,Ebersole 1985,69.842885,-155.9885,87,,,,0,hidden,hidden,#5CE65C,square
-19,png_mw,pingos_mwalker (4 locations),M.D. Walker 1990,70.269518,-148.5739,293,Pingos(PNG_MW).jpg,,,0,,,#E6E600,square
+19,png_mw,pingos_mwalker (4 locations),M.D. Walker 1990,70.269518,-148.5739,293,Pingos(PNG_MW).jpg,,,0,,,#fc3,square
 19a,png_mw_pru,pingos_mwalker_prudhoe,M.D. Walker 1990,70.269778,-148.5734,,,,,19,,, ,square
 19b,png_mw_kup,pingos_mwalker_kuparuk,M.D. Walker 1990,70.326657,-149.5936,,,,,19,,, ,square
 19c,png_mw_kad,pingos_mwalker_kadleroshilik,M.D. Walker 1990,70.054461,-147.4913,,,,,19,,, ,square
