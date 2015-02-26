@@ -40,7 +40,7 @@ Convert command
 
 Very basic conversion of the csv to a geojson, nothing special here.
 
-Google Doc: https://docs.google.com/a/gina.alaska.edu/spreadsheets/d/1T-nP10lMuV5B20E5rDKA0rG1AES8O6AI8bAiqXrdnt4/edit#gid=311456934
+Google Doc: https://docs.google.com/a/alaska.edu/spreadsheets/d/1T-nP10lMuV5B20E5rDKA0rG1AES8O6AI8bAiqXrdnt4/edit#gid=311456934
 
 Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/2/edit
 
