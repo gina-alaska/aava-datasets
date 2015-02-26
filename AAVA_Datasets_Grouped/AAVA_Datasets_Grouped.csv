@@ -20,7 +20,7 @@ index,code,title,source,lat,lon,plots,photo,url,detailed_map_url,group,url_class
 8,ct_aj,capethompson_ajohnson,Johnson et al. 1966,68.097237,-165.7381,54,,,,0,hidden,hidden,#FF7E7E,square
 9,crd_mJ,colvilleriverdelta_mjorgenson,Jorgenson et al. 1997,70.292594,-150.9901,293,,,,0,hidden,hidden,#555555,square
 10,fc_vk,fishcreek_vkomarkova,Lawson 1982,70.311352,-151.874,15,,,,0,hidden,hidden,#555555,square
-11,fb_ak,frostboils_kade (7 locations),Kade et al. 2005 (data in Barreda et al. 2006),69.674394,-148.721,117,Frost Boils (FB_AK).jpg,,,0,,,#5CE65C,circle
+11,fb_ak,frostboils_kade (7 locations),Kade et al. 2005 (data in Barreda et al. 2006),69.674394,-148.721,117,Frost Boils (FB_AK).jpg,,,0,,,#5CE65C,square
 11a,fb_ak_hi,frostboils_akade_howeisland,Kade et al. 2005,70.315056,-147.9937,,,,,11,,, ,square
 11b,fb_ak_wd,frostboils_akade_westdock,Kade et al. 2005,70.374612,-148.5534,,,,,11,,, ,square
 11c,fb_ak_dh,frostboils_akade_deadhorse,Kade et al. 2005,70.161361,-148.4671,,,,,11,,, ,square
@@ -69,6 +69,6 @@ index,code,title,source,lat,lon,plots,photo,url,detailed_map_url,group,url_class
 23h,swa_st_snwr,swalaska_stalbot_selawiknwr,,66.580622,-159.173,,,,,23,,, ,square
 24,tl_dw,tooliklake_dwalker,Walker & Barry 1991,68.62851,-149.5917,81,ToolikLake (TL_SW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/6803-alaska-arctic-vegetation-archive-toolik-lake-v,/aava-toolik-lake,0,,,#5CE65C,square
 25,umi_ec,umiat_echurchill,Churchhill 1955,69.366767,-152.1411,78,,,,0,hidden,hidden,#555555,square
-26,wllw_us,willows_uschickhoff (70 locations),Schickhoff et al. 2002,68.794047,-148.8258,85,Willows(WLLW_US).jpg,,,0,hidden,,#5CE65C,square
-27,ykd_mJ,yukonkuskokwimdelta_mjorgenson,Jorgenson et al. 2000,61.252657,-165.3406,65,,,,0,hidden,hidden,#555555,square
-,wa-wh,westernalaska_whanson,Hanson 1951,66.898228,-162.5991,21,,,,0,hidden,hidden,#555555,square
+26,wa-wh,westernalaska_whanson,Hanson 1951,66.898228,-162.5991,21,,,,0,hidden,hidden,#555555,square
+27,wllw_us,willows_uschickhoff (70 locations),Schickhoff et al. 2002,68.794047,-148.8258,85,Willows(WLLW_US).jpg,,,0,hidden,,#5CE65C,square
+28,ykd_mJ,yukonkuskokwimdelta_mjorgenson,Jorgenson et al. 2000,61.252657,-165.3406,65,,,,0,hidden,hidden,#555555,square

@@ -55,3 +55,43 @@ Google Doc: https://docs.google.com/a/gina.alaska.edu/spreadsheets/d/1ZJwLMz2r4K
 Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/1/edit
 
     yak geojson -f -p EPSG:4326 -s group AAVA_Datasets_Grouped.vrt
+
+## willows_tvexport
+
+Google Doc: https://docs.google.com/a/alaska.edu/spreadsheets/d/1y1fOsxCOTyE-MMzGPsgGl_71Yf3ipaWQQw0EhBnvteQ/edit#gid=0
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/8/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 willows_tvexport.vrt
+    
+## poplars_tvexport
+
+Google Doc: https://docs.google.com/a/alaska.edu/spreadsheets/d/11eba-_-m--PGfeteshdjr7hVhW-SOhVrgX_MCkVjcAQ/edit#gid=0
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/7/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 poplars_tvexport.vrt
+
+## oumalik_tvexport
+
+Google Doc: https://docs.google.com/a/alaska.edu/spreadsheets/d/120V0NK9n-627Krs2d2xAwD6ibMka5qxSmNuF-rSdy-s/edit#gid=0
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/9/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 oumalik_tvexport.vrt
+
+## prudhoe_tvexport
+
+Google Doc: https://docs.google.com/a/alaska.edu/spreadsheets/d/1ph7aiXTL5B2lPB3lNXsJ-bqh4SaBaAz-qyPyXjI2TmM/edit#gid=0
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/3/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 prudhoe_tvexport.vrt
