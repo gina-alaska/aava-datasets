@@ -8,7 +8,17 @@ Quick location to store the basic data and documentation on how to convert the g
 2. gdal
 3. this repo
 
-## Instructions for converting datasets into geojson
+## New instructions 2.0!!!
+
+1. cd into the subdirectory with the dataset you wish to updated
+2. Run the updater!
+  on OSX run `yak aava`
+  on Linux run `yak aava -b firefox` or whatever browser you want it to use
+3. In the browser go to the data tab and click the "Choose file" button
+4. Browse to the directory and find the file that you are trying to update.  
+5. Click the "Save" button
+
+## Manual instructions for converting datasets into geojson
 
 1. Download doc as CSV file, the filename depends on what the dataset is coming from, just replace the existing csv file in the appropriate sub directory.
 2. Run the yak command listed for the dataset
@@ -65,7 +75,7 @@ Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/8/edit
 Convert command
 
     yak geojson -f -p EPSG:4326 willows_tvexport.vrt
-    
+
 ## poplars_tvexport
 
 Google Doc: https://docs.google.com/a/alaska.edu/spreadsheets/d/11eba-_-m--PGfeteshdjr7hVhW-SOhVrgX_MCkVjcAQ/edit#gid=0
