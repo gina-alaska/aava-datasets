@@ -12,7 +12,9 @@ Quick location to store the basic data and documentation on how to convert the g
 
 1. cd into the subdirectory with the dataset you wish to updated
 2. Run the updater!
+
   on OSX run `yak aava`
+
   on Linux run `yak aava -b firefox` or whatever browser you want it to use
 3. In the browser go to the data tab and click the "Choose file" button
 4. Browse to the directory and find the file that you are trying to update.  
