@@ -127,3 +127,13 @@ Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/12/edit
 Convert command
 
     yak geojson -f -p EPSG:4326 Atqasuk.vrt
+
+## tfire
+
+Google Doc: https://docs.google.com/spreadsheets/d/1JsuKIcLNiqY0hUXJCj2ExJ88qTxQ6PVfN28x99NhVz8/edit#gid=0
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/13/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 tfire.vrt
