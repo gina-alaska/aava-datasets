@@ -117,3 +117,13 @@ Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/10/edit
 Convert command
 
     yak geojson -f -p EPSG:4326 frostboils_tvexport.vrt
+
+## Atqasuk
+
+Google Doc: https://docs.google.com/spreadsheets/d/17fXKyj54mTsPKZjqHlYANL1LzURpRP8XpfpcNuIIAV8/edit#gid=0
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/12/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 Atqasuk.vrt
