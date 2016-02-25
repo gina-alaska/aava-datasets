@@ -10,15 +10,19 @@ Quick location to store the basic data and documentation on how to convert the g
 
 ## New instructions 2.0!!!
 
-1. cd into the subdirectory with the dataset you wish to updated
-2. Run the updater!
+1. clone this respository
+  
+  `git clone git@github.com:gina-alaska/aava-datasets`
 
+3. cd into the subdirectory with the dataset you wish to updated
+3. Run the updater!
+  
   on OSX run `yak aava`
 
   on Linux run `yak aava -b firefox` or whatever browser you want it to use
-3. In the browser go to the data tab and click the "Choose file" button
-4. Browse to the directory and find the file that you are trying to update.  
-5. Click the "Save" button
+4. In the browser go to the data tab and click the "Choose file" button
+5. Browse to the directory and find the file that you are trying to update.  
+6. Click the "Save" button
 
 ## Manual instructions for converting datasets into geojson
 
