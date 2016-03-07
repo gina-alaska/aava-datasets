@@ -137,3 +137,14 @@ Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/13/edit
 Convert command
 
     yak geojson -f -p EPSG:4326 tfire.vrt
+
+
+## nome_tvexport
+
+Google Doc: https://docs.google.com/a/alaska.edu/spreadsheets/d/1JxhCAQPvcGluigToUjKdTQ9JO6jMVkxuDBGHt6i-fXw/edit
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/14/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 nome_tvexport.vrt
