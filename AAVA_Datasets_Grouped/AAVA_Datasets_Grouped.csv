@@ -1,6 +1,11 @@
 index,code,title,source,lat,lon,plots,photo,url,detailed_map_url,group,url_class,img_class,marker-color,marker-symbol
-1,ap_dc,Arrigetch Peaks (Cooper 1983),Cooper 1983,67.435174,-154.098991,373,ArrigetchPeaks(AP_DC).jpg,http://alaskaaga.gina.alaska.edu/catalogs/10177-alaska-arctic-vegetation-archive-arrigetch-pea,,0,,,#4caa4c,square
-2,anhp_kb,"Alaska Natural Heritage Program (Boggs et al. 1998, Boucher et al. In Prep)",,70.332379,-151.8706,,,http://geobotanical.portal.gina.alaska.edu/catalogs/10670-alaska-arctic-vegetation-archive-alaska-natura,,0,,,#777,square
+1,npsan-mj,Arctic Network NPS (Jorgenson et al. 2009),Jorgenson et al. 2009a,68.098941,-159.6351,763,,http://geobotanical.portal.gina.alaska.edu/catalogs/10184-alaska-arctic-vegetation-archive-arctic-network,,0,,,#86ef87,square
+1a,npsan-mj_goa,arcticnetwork_mjorgenson_gatesofarctic,Jorgenson et al. 2009a,67.958101,-152.0436,,,,,1,,, ,square
+1b,npsan-mj_ntkr,arcticnetwork_mjorgenson_noatakriver,Jorgenson et al. 2009a,68.098941,-159.6351,,,,,1,,, ,square
+1c,npsan-mj_kv,arcticnetwork_mjorgenson_kobukvalley,Jorgenson et al. 2009a,67.069387,-158.8912,,,,,1,,, ,square
+1d,npsan-mj_ck,arcticnetwork_mjorgenson_capekrusenstern,Jorgenson et al. 2009a,67.418622,-163.5283,,,,,1,,, ,square
+1e,npsan-mj_blg,arcticnetwork_mjorgenson_beringlandbridge,Jorgenson et al. 2009a,65.803177,-164.5114,,,,,1,,, ,square
+2,ap_dc,Arrigetch Peaks (Cooper 1983),Cooper 1983,67.435174,-154.098991,373,ArrigetchPeaks(AP_DC).jpg,http://alaskaaga.gina.alaska.edu/catalogs/10177-alaska-arctic-vegetation-archive-arrigetch-pea,,0,,,#4caa4c,square
 3,atl1_ee,ATLAS-1 Vegetation Studies (Edwards et al. 2000),Edwards et al. 2000,68.482394,-155.752,15,atlas1.jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9781-alaska-arctic-vegetation-archive-atlas-1-atqa,,0,,,#4caa4c,square
 3a,atl1_ee_brw,atlas1_dwalker_barrow,Edwards et al. 2000,71.321631,-156.6083,,,,,3,,, ,square
 3b,atl1_ee_atq,atlas1_dwalker_atqasuk,Edwards et al. 2000,70.46517,-157.4519,,,,,3,,, ,square
@@ -9,70 +14,77 @@ index,code,title,source,lat,lon,plots,photo,url,detailed_map_url,group,url_class
 4,atl2_dw,ATLAS-2 Vegetation Studies (Raynolds et al. 2002),Raynolds et al. 2002,64.893661,-163.6703,52,atlas2.jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/10671-alaska-arctic-vegetation-archive-atlas-2-rayn,,0,,,#4caa4c,square
 4a,atl2_dw_cnl,atlas2_mraynolds_council,Raynolds et al. 2002,64.893661,-163.6703,,,,,4,,, ,square
 4b,atl2_dw_qc,atlas2_maraynolds_quartzcreek,Raynolds et al. 2002,65.402104,-164.6544,,,,,4,,, ,square
-5,atq_vk,Atqasuk (Komarkova and Webber 1980; Villarreal 2013),Komarkova & Webber 1980; Villarreal 2013,70.44802,-157.3592,31,atqasuk.jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/10182-alaska-arctic-vegetation-archive-atqasuk,,0,,,#4caa4c,square
-6,brw_pw,Barrow (Webber 1978; Villarreal et al. 2012),Webber 1978; Villarreal et al. 2012,71.2895088,-156.6869346,33,barrow.jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/10178-alaska-arctic-vegetation-archive-barrow-vegeta,,0,,,#4caa4c,square
-7,brwngee_vs,Barrow-NGEE (Sloan et al. 2014),Sloan et al. 2014,71.27973,-156.60306,48,,http://geobotanical.portal.gina.alaska.edu/catalogs/10674-alaska-arctic-vegetation-archive-ngee-arctic-v,,0,,hidden,#fc3,square
-8,ct_aj,Cape Thompson (Johnson et al. 1966),Johnson et al. 1966,68.097237,-165.7381,54,aava_capethompson_fromvierecketal_image.jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9768-alaska-arctic-vegetation-archive-cape-thompson,,0,,,#86ef87,square
-9,crd_mJ,Colville River Delta (Jorgenson et al. 1997),Jorgenson et al. 1997,70.292594,-150.9901,293,,http://geobotanical.portal.gina.alaska.edu/catalogs/10180-alaska-arctic-vegetation-archive-colville-rive,,0,,hidden,#777,square
-10,fc_vk,Fish Creek (Lawson 1982),Lawson 1982,70.311352,-151.874,15,,http://geobotanical.portal.gina.alaska.edu/catalogs/10181-alaska-arctic-vegetation-archive-fish-creek,,0,,hidden,#777,square
-11,fb_ak,Frost Boil Vegetation Plots (Kade et al. 2005),Kade et al. 2005 (data in Barreda et al. 2006),69.674394,-148.721,117,Frost Boils (FB_AK).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9629-alaska-arctic-vegetation-archive-frost-boil-ve,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/11-frost-boils,0,,,#4caa4c,square
-11a,fb_ak_hi,frostboils_akade_howeisland,Kade et al. 2005,70.315056,-147.9937,,,,,11,,, ,square
-11b,fb_ak_wd,frostboils_akade_westdock,Kade et al. 2005,70.374612,-148.5534,,,,,11,,, ,square
-11c,fb_ak_dh,frostboils_akade_deadhorse,Kade et al. 2005,70.161361,-148.4671,,,,,11,,, ,square
-11d,fb_ak_fb,frostboils_akade_franklinbluffs,Kade et al. 2005,69.674111,-148.7173,,,,,11,,, ,square
-11e,fb_ak_sagn,frostboils_akade_sagwonnonacidic,Kade et al. 2005,69.433583,-148.6718,,,,,11,,, ,square
-11f,fb_ak_saga,frostboils_akade_sagwonacidic,Kade et al. 2005,69.4255,-148.696,,,,,11,,, ,square
-11g,fb_ak_hv,frostboils_akade_happyvalley,Kade et al. 2005,69.147,-148.847,,,,,11,,, ,square
-12,hv_dw,Happy Valley (Walker et al. 1997),Walker et al. 1997,69.147861,-148.8428,56,Happy Valley (HV_SW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9623-alaska-arctic-vegetation-archive-happy-valley,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/12-happy-valley,0,,,#4caa4c,square
-13,iwd-mj,"Ice-Wedge Degradation Vegetation Plots (Jorgenson et al., No date)","Jorgenson et al., no date",70.225454,-148.3939,50,,http://geobotanical.portal.gina.alaska.edu/catalogs/10183-alaska-arctic-vegetation-archive-ice-wedge-deg,,0,,hidden,#777,square
-13a,iwd-mj_brw,icewedgedegradation_mjorgenson_barrow,"Jorgenson et al., no date",71.324333,-156.6801,,,,,13,,, ,square
-13b,iwd-mj_pru,icewedgedegradation_mjorgenson_prudhoe,"Jorgenson et al., no date",70.225958,-148.397,,,,,13,,, ,square
-13c,iwd-mj_cr,icewedgedegradation_mjorgenson_colvilleriver,"Jorgenson et al., no date",69.697347,-151.5275,,,,,13,,, ,square
-13d,iwd-mj_anwr,icewedgedegradation_mjorgenson_anwr,"Jorgenson et al., no date",70.123387,-143.6125,,,,,13,,, ,square
-14,ic_dw,Imnavait Creek (Walker et al. 1987),Walker et al. 1987,68.6178,-149.3035,84,Imnavait Creek (IC_SW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9612-alaska-arctic-vegetation-archive-imnavait-cree,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/14-imnaviat-creek,0,,,#4caa4c,square
-15,itex_se,ITEX Vegetation Plots (Elmendorf et al. 2012b),Elmendorf et al. 2012b,69.31,-144.94,,aava_itex_elmendorf_2012_site_photo.jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9787-alaska-arctic-vegetation-archive-international,,0,,,#86ef87,square
-16,leg-dw,Legacy (Elias et al. 1996),Elias et al. 1996,71.322901,-156.617,61,legacy.jpg,http://geobotanical.portal.gina.alaska.edu/manager/catalogs/10672-alaska-arctic-vegetation-archive-legacy-vegeta,,0,,,#4caa4c,square
-16a,leg-dw_brw,legacy_dwalker_barrow,Elias et al. 1996,71.322862,-156.6154,,,,,16,,, ,square
-16b,leg-dw_bi,legacy_dwalker_barterisland,Elias et al. 1996,70.130793,-143.6374,,,,,16,,, ,square
-17,npsan-mj,NPS Arctic Network (Jorgenson et al. 2009),Jorgenson et al. 2009a,68.098941,-159.6351,763,,http://geobotanical.portal.gina.alaska.edu/catalogs/10184-alaska-arctic-vegetation-archive-nps-arctic-ne,,0,,,#fc3,square
-17a,npsan-mj_goa,arcticnetwork_mjorgenson_gatesofarctic,Jorgenson et al. 2009a,67.958101,-152.0436,,,,,17,,, ,square
-17b,npsan-mj_ntkr,arcticnetwork_mjorgenson_noatakriver,Jorgenson et al. 2009a,68.098941,-159.6351,,,,,17,,, ,square
-17c,npsan-mj_kv,arcticnetwork_mjorgenson_kobukvalley,Jorgenson et al. 2009a,67.069387,-158.8912,,,,,17,,, ,square
-17d,npsan-mj_ck,arcticnetwork_mjorgenson_capekrusenstern,Jorgenson et al. 2009a,67.418622,-163.5283,,,,,17,,, ,square
-17e,npsan-mj_blg,arcticnetwork_mjorgenson_beringlandbridge,Jorgenson et al. 2009a,65.803177,-164.5114,,,,,17,,, ,square
-18,npra-mj,National Petroleum Reserve-Alaska (Jorgenson 2003),Jorgenson 2003,70.332379,-151.8706,285,,http://geobotanical.portal.gina.alaska.edu/catalogs/10673-alaska-arctic-vegetation-archive-national-petr,,0,,,#fc3,square
-19,nom_wh,Nome (Hanson 1953),Hanson 1953,64.503629,-165.3969,8,,http://geobotanical.portal.gina.alaska.edu/catalogs/10681-alaska-arctic-vegetation-archive-nome,,0,,hidden,#777,square
-20,nsflux_dw,"North Slope FLUX (Walker, 1995, 1996 unpublished)","Walker (1995, 1996 unpublished)",69.4239,-148.6903,29,,http://geobotanical.portal.gina.alaska.edu/catalogs/11487-alaska-arctic-vegetation-archive-north-slope-f,,0,,,#fc3,square
-21,oum_je,Oumalik (Ebersole 1985),Ebersole 1985,69.842885,-155.9885,87,,http://geobotanical.portal.gina.alaska.edu/catalogs/9689-alaska-arctic-vegetation-archive-oumalik-veget,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/21-oumalik,0,,,#4caa4c,square
-22,png_mw,Pingo Vegetation Plots (M.D. Walker 1990),M.D. Walker 1990,70.269518,-148.5739,293,Pingos(PNG_MW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/10665-alaska-arctic-vegetation-archive-pingo-vegetat,,0,,,#4caa4c,square
-22a,png_mw_pru,pingos_mwalker_prudhoe,M.D. Walker 1990,70.269778,-148.5734,,,,,22,,, ,square
-22b,png_mw_kup,pingos_mwalker_kuparuk,M.D. Walker 1990,70.326657,-149.5936,,,,,22,,, ,square
-22c,png_mw_kad,pingos_mwalker_kadleroshilik,M.D. Walker 1990,70.054461,-147.4913,,,,,22,,, ,square
-22d,png_mw_tr,pingos_mwalker_toolikriver,M.D. Walker 1990,69.781958,-149.1333,,,,,22,,, ,square
-23,pop_ab,Poplar Vegetation Plots (Breen 2014),Breen 2014,69.104194,-147.9131,19,Poplars (POP_AB).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9666-alaska-arctic-vegetation-archive-poplar-vegeta,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/23-poplars,0,,,#4caa4c,square
-24,pru_dw,Prudhoe Bay (D.A. Walker 1985),D.A. Walker 1985,70.25177,-148.5973,89,Prudhoe Bay (PRU_SW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9628-alaska-arctic-vegetation-archive-prudhoe-bay-v,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/24-prudhoe-bay,0,,,#4caa4c,square
-24a,pru_dw_kr,prudhoe_dwalker_kuparukriver,D.A. Walker 1985,70.308963,-148.9395,,,,,24,,, ,square
-24b,pru_dw_padf,prudhoe_dwalker_padf,D.A. Walker 1985,70.333352,-148.769,,,,,24,,, ,square
-24c,pru_dw_ap,prudhoe_dwalker_angelpingo,D.A. Walker 1985,70.289933,-148.7597,,,,,24,,, ,square
-24d,pru_dw_pr,prudhoe_dwalker_putuligayukriver,D.A. Walker 1985,70.267395,-148.6436,,,,,24,,, ,square
-24e,pru_dw_ibp,prudhoe_dwalker_ibptundrabiome,D.A. Walker 1985,70.251461,-148.5976,,,,,24,,, ,square
-24f,pru_dw_ds2,prudhoe_dwalker_drillsite2,D.A. Walker 1985,70.267833,-148.4931,,,,,24,,, ,square
-24g,pru_dw_sd,prudhoe_dwalker_sanddunes,D.A. Walker 1985,70.283268,-148.2865,,,,,24,,, ,square
-24h,pru_dw_ed,prudhoe_dwalker_eastdock,D.A. Walker 1985,70.310594,-148.3199,,,,,24,,, ,square
-24i,pru_dw_wd,prudhoe_dwalker_westdock,D.A. Walker 1985,70.371568,-148.538,,,,,24,,, ,square
-25,pruarcsees_dw,Prudhoe Bay-ArcSEES (Walker et al. 2015),Walker et al. 2015,70.234,-148.472641,48,Prudoe Bay ArcSEES (PRUARCSEES_DW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/11486-alaska-arctic-vegetation-archive-prudhoe-bay-a,,0,,,#fc3,square
-26,snrw_mj,Selawik National Wildlife Refuge (Jorgenson et al. 2009),Jorgenson et al. 2009b,66.603128,-160.0132,275,,http://geobotanical.portal.gina.alaska.edu/catalogs/10676-alaska-arctic-vegetation-archive-selawik-natio,,0,,hidden,#fc3,square
-27,swa_st,"Southwest Alaska Vegetation Plots (Talbot et al. 2010, Talbot and Talbot 2008, Daniels et al. 2004, Talbot and Talbot 1994)",Talbot (in progress),53.889299,-166.5377,,,http://geobotanical.portal.gina.alaska.edu/catalogs/10677-alaska-arctic-vegetation-archive-southwest-ala,,0,,hidden,#777,square
-27a,swa_st_eai,swalaska_stalbot_easternaleutianislands,Talbot et al. 2010a,53.894485,-166.5423,70,,,,27,,, ,square
-27b,swa_st_cai,swalaska_stalbot_centralaleutianislands,,51.863788,-176.6364,,,,,27,,, ,square
-27c,swa_st_wai,swalaska_stalbot_westernaleutianislands,Talbot & Talbot 1994,52.832396,-173.1797,76,,,,27,,, ,square
-27d,swa_st_niap,swalaska_stalbot_neighborislandsalaskapeninsula,"Talbot & Talbot 2008, Daniels et al. 2004",54.893743,-159.272,30,,,,27,,, ,square
-27e,swa_st_ap,swalaska_stalbot_alaskapeninsulabecharofnwr,,58.085882,-156.4305,,,,,27,,, ,square
-27f,swa_st_inwr,swalaska_stalbot_izembeknwr,,55.28674,-162.6811,,,,,27,,, ,square
-27g,swa_st_kdka,swalaska_stalbot_kodiakarchipelago,,57.659969,-153.6363,,,,,27,,, ,square
-27h,swa_st_snwr,swalaska_stalbot_selawiknwr,,66.580622,-159.173,,,,,27,,, ,square
-28,tl_dw,Toolik Lake (Walker and Barry 1991),Walker & Barry 1991,68.62851,-149.5917,81,ToolikLake (TL_SW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/6803-alaska-arctic-vegetation-archive-toolik-lake-v,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/28-toolik-lake,0,,,#4caa4c,square
-29,umi_ec,Umiat (Churchhill 1955),Churchhill 1955,69.366767,-152.1411,78,,http://geobotanical.portal.gina.alaska.edu/catalogs/10678-alaska-arctic-vegetation-archive-umiat,,0,,hidden,#777,square
-30,wa-wh,Western Alaska Vegetation Plots (Hanson 1951),Hanson 1951,66.898228,-162.5991,21,,http://geobotanical.portal.gina.alaska.edu/catalogs/10679-alaska-arctic-vegetation-archive-western-alask,,0,,hidden,#86ef87,square
-31,wllw_us,Willow Vegetation Plots (Schickhoff et al. 2002),Schickhoff et al. 2002,68.794047,-148.8258,85,Willows(WLLW_US).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9667-alaska-arctic-vegetation-archive-willows-veget,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/31-willows,0,,,#4caa4c,square
-32,ykd_mJ,Yukon-Kuskokwim Delta Plots (Jorgenson et al. 2000),Jorgenson et al. 2000,61.252657,-165.3406,65,,http://geobotanical.portal.gina.alaska.edu/catalogs/10680-alaska-arctic-vegetation-archive-yukon-kuskokw,,0,,hidden,#fc3,square
+5,atq_vk,Atqasuk (Komarkova and Webber 1980; Villarreal 2013),Komarkova & Webber 1980; Villarreal 2013,70.44802,-157.3592,31,atqasuk.jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/10182-alaska-arctic-vegetation-archive-atqasuk,http://geobotanical.portal.gina.alaska.edu/plot-archive/plot-datasets/5-atqasuk,0,,,#4caa4c,square
+6,brw_pw,Barrow-IBP Tundra Biome (Webber 1978; Villarreal et al. 2012),Webber 1978; Villarreal et al. 2012,71.2895088,-156.6869346,33,barrow.jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/10178-alaska-arctic-vegetation-archive-barrow-vegeta,,0,,,#4caa4c,square
+7,brwngee_vs,Barrow-DOE NGEE (Sloan et al. 2014),Sloan et al. 2014,71.27973,-156.60306,48,,http://agc.portal.gina.alaska.edu/manager/catalogs/10674-alaska-arctic-vegetation-archive-barrow-doe-ng,,0,,hidden,#86ef87,square
+8,cwa_jl,Canadian Western Arctic (Lambert 1968),Lambert 1968,68.22028,-135.9044,154,CandianWesternArctic(CWA_JL).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/11611-alaska-arctic-vegetation-archive-canadian-west,,0,,,#4caa4c,square
+8a,cwa_jl_can,cwa_jlambert_canoelake,Lambert 1968,68.22028,-135.9044,,,,,8,,,,square
+8b,cwa_jl_tro,cwa_jlambert_troutlake,Lambert 1968,68.82445,-138.7475,,,,,8,,,,square
+9,ct_aj,Cape Thompson (Johnson et al. 1966),Johnson et al. 1966,68.097237,-165.7381,54,aava_capethompson_fromvierecketal_image.jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9768-alaska-arctic-vegetation-archive-cape-thompson,,0,,,#86ef87,square
+10,crd_mJ,Colville River Delta (Jorgenson et al. 1997),Jorgenson et al. 1997,70.292594,-150.9901,293,,http://geobotanical.portal.gina.alaska.edu/catalogs/10180-alaska-arctic-vegetation-archive-colville-rive,,0,,hidden,#777,square
+11,fc_vk,Fish Creek (Lawson 1982),Lawson 1982,70.311352,-151.874,15,,http://geobotanical.portal.gina.alaska.edu/catalogs/10181-alaska-arctic-vegetation-archive-fish-creek,,0,,hidden,#777,square
+12,npra-mj,Fish Creek Delta NPR-A (Jorgenson 2003),Jorgenson 2003,70.332379,-151.8706,285,,http://geobotanical.portal.gina.alaska.edu/catalogs/10673-alaska-arctic-vegetation-archive-national-petr,,0,,,#777,square
+13,nszt_dz,Flux Towers (Davidson et al. 2016),Davidson et al. 2016,70.46968,-157.40842,,,http://geobotanical.portal.gina.alaska.edu/manager/catalogs/11614-alaska-arctic-vegetation-archive-north-slope-z,,0,,hidden,#777,square
+13a,nszt_dz_bar,fluxtowers_davidson_bar,Davidson et al. 2017,71.28122,-156.61326,,,,,13,,,,square
+13b,nszt_dz_atq,fluxtowers_davidson_atq,Davidson et al. 2018,70.46968,-157.40842,,,,,13,,,,square
+13c,nszt_dz_ivo,fluxtowers_davidson_ivo,Davidson et al. 2019,71.32208,-156.60682,,,,,13,,,,square
+14,fb_ak,Frost Boil Vegetation Plots (Kade et al. 2005),Kade et al. 2005 (data in Barreda et al. 2006),69.674394,-148.721,117,Frost Boils (FB_AK).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9629-alaska-arctic-vegetation-archive-frost-boil-ve,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/11-frost-boils,0,,,#4caa4c,square
+14a,fb_ak_hi,frostboils_akade_howeisland,Kade et al. 2005,70.315056,-147.9937,,,,,14,,, ,square
+14b,fb_ak_wd,frostboils_akade_westdock,Kade et al. 2005,70.374612,-148.5534,,,,,14,,, ,square
+14c,fb_ak_dh,frostboils_akade_deadhorse,Kade et al. 2005,70.161361,-148.4671,,,,,14,,, ,square
+14d,fb_ak_fb,frostboils_akade_franklinbluffs,Kade et al. 2005,69.674111,-148.7173,,,,,14,,, ,square
+14e,fb_ak_sagn,frostboils_akade_sagwonnonacidic,Kade et al. 2005,69.433583,-148.6718,,,,,14,,, ,square
+14f,fb_ak_saga,frostboils_akade_sagwonacidic,Kade et al. 2005,69.4255,-148.696,,,,,14,,, ,square
+14g,fb_ak_hv,frostboils_akade_happyvalley,Kade et al. 2005,69.147,-148.847,,,,,14,,, ,square
+15,ga_kb,"Gates of the Arctic AKNHP (Boggs et al. 1998, Boucher et al. In Prep)",Boucher et al. in prep,70.332379,-151.8706,,,http://agc.portal.gina.alaska.edu/manager/catalogs/10670-alaska-arctic-vegetation-archive-gates-of-the,,0,,,#777,square
+16,hv_dw,Happy Valley (Walker et al. 1997),Walker et al. 1997,69.147861,-148.8428,56,Happy Valley (HV_SW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9623-alaska-arctic-vegetation-archive-happy-valley,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/12-happy-valley,0,,,#4caa4c,square
+17,ic_dw,Imnavait Creek (Walker et al. 1987),Walker et al. 1987,68.6178,-149.3035,84,Imnavait Creek (IC_SW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9612-alaska-arctic-vegetation-archive-imnavait-cree,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/14-imnaviat-creek,0,,,#4caa4c,square
+18,itex_se,ITEX Vegetation Plots (Elmendorf et al. 2012b),Elmendorf et al. 2012b,69.31,-144.94,,aava_itex_elmendorf_2012_site_photo.jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9787-alaska-arctic-vegetation-archive-international,,0,,,#86ef87,square
+19,kotz_hh,Kotzebue (Hanson 1951),Hanson 1951,66.898228,-162.5991,21,,http://geobotanical.portal.gina.alaska.edu/manager/catalogs/10679-alaska-arctic-vegetation-archive-kotzebue-han,,0,,,#777,square
+20,nsflux_dw,"LAII Flux Study (Walker, 1995, 1996, unpublished)","Walker (1995, 1996)",69.4239,-148.6903,29,,http://geobotanical.portal.gina.alaska.edu/catalogs/11487-alaska-arctic-vegetation-archive-north-slope-f,,0,,,#4caa4c,square
+21,leg-dw,Legacy (Elias et al. 1996),Elias et al. 1996,71.322901,-156.617,61,legacy.jpg,http://geobotanical.portal.gina.alaska.edu/manager/catalogs/10672-alaska-arctic-vegetation-archive-legacy-vegeta,,0,,,#4caa4c,square
+21a,leg-dw_brw,legacy_dwalker_barrow,Elias et al. 1996,71.322862,-156.6154,,,,,21,,, ,square
+21b,leg-dw_bi,legacy_dwalker_barterisland,Elias et al. 1996,70.130793,-143.6374,,,,,21,,, ,square
+22,nom_wh,Nome (Hanson 1953),Hanson 1953,64.503629,-165.3969,8,Nome(NOME_HH).jpg,http://geobotanical.portal.gina.alaska.edu/manager/catalogs/10681-alaska-arctic-vegetation-archive-nome-hanson,,0,,hidden,#86ef87,square
+23,npra-bo,NPR-A ANHP (Boucher et al. 2014),Boucher et al. 2014,69.307041,-159.937124,,,http://geobotanical.portal.gina.alaska.edu/manager/catalogs/11618-alaska-arctic-vegetation-archive-npr-a-anhp-b,,0,,,#777,square
+24,oum_je,Oumalik (Ebersole 1985),Ebersole 1985,69.842885,-155.9885,87,Oumalik(OUM_JE).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9689-alaska-arctic-vegetation-archive-oumalik-veget,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/21-oumalik,0,,,#4caa4c,square
+25,png_mw,Pingo Vegetation Plots (M.D. Walker 1990),M.D. Walker 1990,70.269518,-148.5739,293,Pingos(PNG_MW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/10665-alaska-arctic-vegetation-archive-pingo-vegetat,,0,,,#4caa4c,square
+25a,png_mw_pru,pingos_mwalker_prudhoe,M.D. Walker 1990,70.269778,-148.5734,,,,,25,,, ,square
+25b,png_mw_kup,pingos_mwalker_kuparuk,M.D. Walker 1990,70.326657,-149.5936,,,,,25,,, ,square
+25c,png_mw_kad,pingos_mwalker_kadleroshilik,M.D. Walker 1990,70.054461,-147.4913,,,,,25,,, ,square
+25d,png_mw_tr,pingos_mwalker_toolikriver,M.D. Walker 1990,69.781958,-149.1333,,,,,25,,, ,square
+26,pop_ab,Poplar Vegetation Plots (Breen 2014),Breen 2014,69.104194,-147.9131,19,Poplars (POP_AB).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9666-alaska-arctic-vegetation-archive-poplar-vegeta,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/23-poplars,0,,,#4caa4c,square
+27,pru_dw,Prudhoe Bay (D.A. Walker 1985),D.A. Walker 1985,70.25177,-148.5973,89,Prudhoe Bay (PRU_SW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9628-alaska-arctic-vegetation-archive-prudhoe-bay-v,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/24-prudhoe-bay,0,,,#4caa4c,square
+27a,pru_dw_kr,prudhoe_dwalker_kuparukriver,D.A. Walker 1985,70.308963,-148.9395,,,,,27,,, ,square
+27b,pru_dw_padf,prudhoe_dwalker_padf,D.A. Walker 1985,70.333352,-148.769,,,,,27,,, ,square
+27c,pru_dw_ap,prudhoe_dwalker_angelpingo,D.A. Walker 1985,70.289933,-148.7597,,,,,27,,, ,square
+27d,pru_dw_pr,prudhoe_dwalker_putuligayukriver,D.A. Walker 1985,70.267395,-148.6436,,,,,27,,, ,square
+27e,pru_dw_ibp,prudhoe_dwalker_ibptundrabiome,D.A. Walker 1985,70.251461,-148.5976,,,,,27,,, ,square
+27f,pru_dw_ds2,prudhoe_dwalker_drillsite2,D.A. Walker 1985,70.267833,-148.4931,,,,,27,,, ,square
+27g,pru_dw_sd,prudhoe_dwalker_sanddunes,D.A. Walker 1985,70.283268,-148.2865,,,,,27,,, ,square
+27h,pru_dw_ed,prudhoe_dwalker_eastdock,D.A. Walker 1985,70.310594,-148.3199,,,,,27,,, ,square
+27i,pru_dw_wd,prudhoe_dwalker_westdock,D.A. Walker 1985,70.371568,-148.538,,,,,27,,, ,square
+28,pruarcsees_dw,Prudhoe Bay-ArcSEES road study (Walker et al. 2015),Walker et al. 2015,70.234,-148.472641,48,Prudoe Bay ArcSEES (PRUARCSEES_DW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/11486-alaska-arctic-vegetation-archive-prudhoe-bay-a,http://geobotanical.portal.gina.alaska.edu/manager/catalogs/11486-alaska-arctic-vegetation-archive-prudhoe-bay-a,0,,,#86ef87,square
+29,pbthrm-mj,Prudhoe Bay Thermokarst (Jorgenson et al. 2015),"Jorgenson et al., no date",70.225454,-148.3939,50,,http://geobotanical.portal.gina.alaska.edu/catalogs/10183-alaska-arctic-vegetation-archive-ice-wedge-deg,,0,,hidden,#777,square
+30,snrw_mj,Selawik National Wildlife Refuge (Jorgenson et al. 2009),Jorgenson et al. 2009b,66.603128,-160.0132,275,,http://geobotanical.portal.gina.alaska.edu/catalogs/10676-alaska-arctic-vegetation-archive-selawik-natio,http://geobotanical.portal.gina.alaska.edu/catalogs/10676-alaska-arctic-vegetation-archive-selawik-natio,0,,hidden,#777,square
+31,swa_st,"Southwest Alaska Vegetation Plots (Talbot et al. 2010, Talbot and Talbot 2008, Daniels et al. 2004, Talbot and Talbot 1994)",Talbot (in progress),53.889299,-166.5377,,,http://geobotanical.portal.gina.alaska.edu/catalogs/10677-alaska-arctic-vegetation-archive-southwest-ala,http://geobotanical.portal.gina.alaska.edu/catalogs/10677-alaska-arctic-vegetation-archive-southwest-ala,0,,hidden,#777,square
+31a,swa_st_eai,swalaska_stalbot_easternaleutianislands,Talbot et al. 2010a,53.894485,-166.5423,70,,,,31,,, ,square
+31b,swa_st_cai,swalaska_stalbot_centralaleutianislands,,51.863788,-176.6364,,,,,31,,, ,square
+31c,swa_st_wai,swalaska_stalbot_westernaleutianislands,Talbot & Talbot 1994,52.832396,-173.1797,76,,,,31,,, ,square
+31d,swa_st_niap,swalaska_stalbot_neighborislandsalaskapeninsula,"Talbot & Talbot 2008, Daniels et al. 2004",54.893743,-159.272,30,,,,31,,, ,square
+31e,swa_st_ap,swalaska_stalbot_alaskapeninsulabecharofnwr,,58.085882,-156.4305,,,,,31,,, ,square
+31f,swa_st_inwr,swalaska_stalbot_izembeknwr,,55.28674,-162.6811,,,,,31,,, ,square
+31g,swa_st_kdka,swalaska_stalbot_kodiakarchipelago,,57.659969,-153.6363,,,,,31,,, ,square
+31h,swa_st_snwr,swalaska_stalbot_selawiknwr,,66.580622,-159.173,,,,,31,,, ,square
+32,swakald_st,swakald_stalbot (Talbot et al. 2005),Talbot et al. 2005,54.929944,-163.725118,,,http://agc.portal.gina.alaska.edu/manager/catalogs/11615-alaska-arctic-vegetation-archive-southwest-ala,,0,,hidden,#777,square
+33,tl_dw,Toolik Lake (Walker and Barry 1991),Walker & Barry 1991,68.62851,-149.5917,81,ToolikLake (TL_SW).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/6803-alaska-arctic-vegetation-archive-toolik-lake-v,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/28-toolik-lake,0,,,#4caa4c,square
+34,tfire_ab,Tundra Fires (Breen et al. 2015),Breen et al. 2015,69.979986,159.083232,64,TundraFires (Tfire_ab).jpg,http://agc.portal.gina.alaska.edu/catalogs/11612-alaska-arctic-vegetation-archive-tundra-fires,http://geobotanical.portal.gina.alaska.edu/manager/catalogs/11612-alaska-arctic-vegetation-archive-tundra-fires,0,,hidden,#777,square
+34a,tfire_ab_nslope,tfire_abreen_nslope,Breen et al. 2016,69.979986,159.083232,,,,,34,,,,square
+34b,tfire_ab_spwest,tfire_abreen_sewardpeninsulawest,Breen et al. 2017,65.426127,164.620363,,,,,34,,,,square
+34c,tfire_ab_speast,tfire_abreen_sewardpeninsulaeast,Breen et al. 2018,65.85274321,160.3953028,,,,,34,,,,square
+35,umi_ec,Umiat (Churchhill 1955),Churchhill 1955,69.366767,-152.1411,78,Umiat (UMIAT_EC).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/10678-alaska-arctic-vegetation-archive-umiat,http://geobotanical.portal.gina.alaska.edu/catalogs/10678-alaska-arctic-vegetation-archive-umiat,0,,hidden,#777,square
+36,unak_st,Unalaska (Talbot et al. 2010),Talbot et al. 2010,53.85555556,-166.4596389,,Unalaska (UNAK_ST).tiff,http://agc.portal.gina.alaska.edu/catalogs/11613-alaska-arctic-vegetation-archive-unalaska-tal,http://geobotanical.portal.gina.alaska.edu/manager/catalogs/11613-alaska-arctic-vegetation-archive-unalaska-tal,0,,hidden,#86ef87,square
+37a,unak_st_unak,unak_st_uanak,Talbot et al. 2011,53.85555556,-166.4596389,,,,,37,,,,square
+37b,unak_st_amac,unak_st_amaknak,Talbot et al. 2012,53.90875,-166.5186111,,,,,37,,,,square
+38,wllw_us,Willow Vegetation Plots (Schickhoff et al. 2002),Schickhoff et al. 2002,68.794047,-148.8258,85,Willows(WLLW_US).jpg,http://geobotanical.portal.gina.alaska.edu/catalogs/9667-alaska-arctic-vegetation-archive-willows-veget,http://agc.portal.gina.alaska.edu/plot-archive/plot-datasets/31-willows,0,,,#4caa4c,square
+39,ykd_mJ,Yukon-Kuskokwim Delta Plots (Jorgenson et al. 2000),Jorgenson et al. 2000,61.252657,-165.3406,65,,http://geobotanical.portal.gina.alaska.edu/catalogs/10680-alaska-arctic-vegetation-archive-yukon-kuskokw,http://geobotanical.portal.gina.alaska.edu/catalogs/10680-alaska-arctic-vegetation-archive-yukon-kuskokw,0,,hidden,#777,square
