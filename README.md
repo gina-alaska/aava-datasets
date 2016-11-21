@@ -163,3 +163,13 @@ Convert command
 
     yak geojson -f -p EPSG:4326 atlas1.vrt
 
+
+## atlas2
+
+Google Doc: https://docs.google.com/spreadsheets/d/1a5SAH0SRNeQmiZQdlSZZdIdhagxzXxY05knUmHsuaqU/edit
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/90/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 atlas2.vrt
