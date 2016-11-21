@@ -152,3 +152,14 @@ Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/14/edit
 Convert command
 
     yak geojson -f -p EPSG:4326 nome_tvexport.vrt
+
+## atlas1
+
+Google Doc: https://docs.google.com/spreadsheets/d/1XnoIqzhNj0NekVew3tyKoF9DL-hk_5SkrMC7-qlpSZ8/edit
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/87/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 atlas1.vrt
+
