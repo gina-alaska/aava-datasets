@@ -193,3 +193,43 @@ Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/92/edit
 Convert command
 
     yak geojson -f -p EPSG:4326 barrow-ngee.vrt
+
+## legacy
+
+Google Doc: https://docs.google.com/spreadsheets/d/1B3Zfsjz1WTVeck3qy1LxUE4PCZghm-nwHz1tVkChJe0/edit#gid=0
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/93/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 legacy.vrt
+
+## pingos
+
+Google Doc: https://docs.google.com/spreadsheets/d/1_auaWnrHv_7DzNPFJtcxIs52ETToEEVasDL3eAfUuAw/edit#gid=0
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/94/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 pingos.vrt
+
+## prudhoe-bay-arcsees
+
+Google Doc: https://docs.google.com/spreadsheets/d/15WD1v6Jvmx2zcT9zy-o49Wpl5vjNrHDh27lr3AS_tZE/edit#gid=0" > prudhoe-bay-arcsees.csv
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/95/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 prudhoe-bay-arcsees.vrt
+
+## unalaska
+
+Google Doc: https://docs.google.com/spreadsheets/d/1AiYW6ko0hhlfdm38bhNcSyJ9pZaZUoxBbcydY7G0ucY/edit#gid=0
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/96/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 unalaska.vrt
