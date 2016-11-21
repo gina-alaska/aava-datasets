@@ -173,3 +173,23 @@ Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/90/edit
 Convert command
 
     yak geojson -f -p EPSG:4326 atlas2.vrt
+
+## barrow-ibp
+
+Google Doc: https://docs.google.com/spreadsheets/d/160jb4039Hp2SN7tFEJXblXPjo3mZ6eUJm4BU-R9E4ns/edit#gid=0" > barrow-ibp.csv
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/91/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 barrow-ibp.vrt
+
+## barrow-ngee
+
+Google Doc: https://docs.google.com/a/alaska.edu/spreadsheets/d/1bJsWoFxtDKAcSp28yWFmRZODV8RZHzMpKjpO3a6viME/edit?usp=drive_web" > barrow-ngee.csv
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/92/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 barrow-ngee.vrt
