@@ -233,3 +233,23 @@ Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/96/edit
 Convert command
 
     yak geojson -f -p EPSG:4326 unalaska.vrt
+
+## northslope-arcss
+
+Google Doc: https://docs.google.com/spreadsheets/d/1oNX_DDhEtXqb6a-zYwIOJEcKezDyDZXz4IeoyMli7Uk/edit#gid=0" > northslope-arcss.csv
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/97/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 northslope-arcss.vrt
+
+## arctic-network
+
+Google Doc: https://docs.google.com/spreadsheets/d/1omWwVidybUVjGB5tx2uXFK-geLmsAriYsfRDW243XTY/edit#gid=0" > arctic-network.csv
+
+Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/98/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 arctic-network.vrt
