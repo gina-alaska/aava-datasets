@@ -1,3 +1,3 @@
 download: curl -L "https://docs.google.com/a/alaska.edu/spreadsheets/d/1JxhCAQPvcGluigToUjKdTQ9JO6jMVkxuDBGHt6i-fXw/export?exportFormat=csv" > nome_tvexport.csv
 convert: yak geojson -f -p EPSG:4326 nome_tvexport.vrt
-edit: http://uber.mapbits.org/orgs/aaga/maps/nome-tvexport
+edit: http://uber.mapbits.org/orgs/aaga/geojson_layers/99/edit

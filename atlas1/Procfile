@@ -1,3 +1,3 @@
 download: curl -L "https://docs.google.com/spreadsheets/d/1XnoIqzhNj0NekVew3tyKoF9DL-hk_5SkrMC7-qlpSZ8/export?exportFormat=csv" > atlas1.csv
 convert: yak geojson -f -p EPSG:4326 atlas1.vrt
-edit: http://uber.mapbits.org/orgs/aaga/maps/atlas-1
+edit: http://uber.mapbits.org/orgs/aaga/geojson_layers/79/edit

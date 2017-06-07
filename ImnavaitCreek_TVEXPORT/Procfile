@@ -1,3 +1,3 @@
 download: curl -L "https://docs.google.com/a/alaska.edu/spreadsheets/d/1ZGkslXn_RAbq1mZnlP0lU-ilgHT2ObtqOnO9-D5lSgU/export?exportFormat=csv#gid=1864778851" > ImnavaitCreek_TVEXPORT.csv
 convert: yak geojson -f -p EPSG:4326 *.vrt  
-edit: http://uber.mapbits.org/orgs/aaga/maps/imnavaitcreek-tvexport
+edit: http://uber.mapbits.org/orgs/aaga/geojson_layers/98/edit
