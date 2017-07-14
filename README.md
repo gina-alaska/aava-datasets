@@ -253,3 +253,13 @@ Ubermap edit: http://ubermap.gina.alaska.edu/geojson_layers/98/edit
 Convert command
 
     yak geojson -f -p EPSG:4326 arctic-network.vrt
+
+## flxtwrzona
+
+Google Doc: https://docs.google.com/spreadsheets/d/1y1aQwW69lpE3_-cIQAhvh59hySx1cNeFRTbCFJM2QXU/edit#gid=899663236
+
+Ubermap edit: http://uber.mapbits.org/orgs/aaga/geojson_layers/105/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 flxtwrzona.vrt

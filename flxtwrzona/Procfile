@@ -1,0 +1,3 @@
+download: curl -L "https://docs.google.com/spreadsheets/d/1y1aQwW69lpE3_-cIQAhvh59hySx1cNeFRTbCFJM2QXU/export?exportFormat=csv#gid=899663236" > flxtwrzona.csv
+convert: yak geojson -f -p EPSG:4326 flxtwrzona.vrt
+edit: http://uber.mapbits.org/orgs/aaga/geojson_layers/105/edit
