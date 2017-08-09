@@ -1,9 +1,8 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
 "features": [
-{ "type": "Feature", "properties": { "index": "36a", "code": "unak_st_unak", "title": "unak_st_uanak", "source": "Talbot et al. 2011", "lat": "53.85555556", "lon": "-166.4596389", "plots": "", "photo": "", "url": "", "detailed_map_url": "", "group": "36", "url_class": "", "img_class": "", "marker-color": "", "marker-symbol": "square" }, "geometry": { "type": "Point", "coordinates": [ -166.459638899999987, 53.85555556 ] } },
-{ "type": "Feature", "properties": { "index": "36b", "code": "unak_st_amac", "title": "unak_st_amaknak", "source": "Talbot et al. 2012", "lat": "53.90875", "lon": "-166.5186111", "plots": "", "photo": "", "url": "", "detailed_map_url": "", "group": "36", "url_class": "", "img_class": "", "marker-color": "", "marker-symbol": "square" }, "geometry": { "type": "Point", "coordinates": [ -166.518611099999987, 53.90875 ] } }
+{ "type": "Feature", "properties": { "index": "40a", "code": "unak_st_unak", "title": "unak_st_uanak", "source": "Talbot et al. 2011", "lat": "53.85555556", "lon": "-166.4596389", "plots": "", "photo": "", "url": "", "detailed_map_url": "", "group": "36", "url_class": "", "img_class": "", "marker-color": "", "marker-symbol": "square" }, "geometry": { "type": "Point", "coordinates": [ -166.459638899999987, 53.85555556 ] } },
+{ "type": "Feature", "properties": { "index": "40b", "code": "unak_st_amac", "title": "unak_st_amaknak", "source": "Talbot et al. 2012", "lat": "53.90875", "lon": "-166.5186111", "plots": "", "photo": "", "url": "", "detailed_map_url": "", "group": "36", "url_class": "", "img_class": "", "marker-color": "", "marker-symbol": "square" }, "geometry": { "type": "Point", "coordinates": [ -166.518611099999987, 53.90875 ] } }
 ]
 }

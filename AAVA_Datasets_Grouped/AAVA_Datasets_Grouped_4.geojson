@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
 "features": [
 { "type": "Feature", "properties": { "index": "4a", "code": "atl2_dw_cnl", "title": "atlas2_mraynolds_council", "source": "Raynolds et al. 2002", "lat": "64.893661", "lon": "-163.6703", "plots": "", "photo": "", "url": "", "detailed_map_url": "", "group": "4", "url_class": "", "img_class": "", "marker-color": "", "marker-symbol": "square" }, "geometry": { "type": "Point", "coordinates": [ -163.6703, 64.893661 ] } },
 { "type": "Feature", "properties": { "index": "4b", "code": "atl2_dw_qc", "title": "atlas2_maraynolds_quartzcreek", "source": "Raynolds et al. 2002", "lat": "65.402104", "lon": "-164.6544", "plots": "", "photo": "", "url": "", "detailed_map_url": "", "group": "4", "url_class": "", "img_class": "", "marker-color": "", "marker-symbol": "square" }, "geometry": { "type": "Point", "coordinates": [ -164.6544, 65.402104 ] } }
