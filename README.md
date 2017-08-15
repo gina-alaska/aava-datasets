@@ -10,15 +10,50 @@ Quick location to store the basic data and documentation on how to convert the g
 
 ## New instructions 2.0!!!
 
-1. clone this respository  
+### Getting started
+1. Clone this respository  
   `git clone git@github.com:gina-alaska/aava-datasets`
-2. cd into the subdirectory with the dataset you wish to updated
-3. Run the updater!
-  * on OSX run `yak aava`
-  * on Linux run `yak aava -b firefox` or whatever browser you want it to use
-4. In the browser go to the data tab and click the "Choose file" button
-5. Browse to the directory and find the file that you are trying to update.  
-6. Click the "Save" button
+2. Make sure that the `yak` command is installed and `yak aava --help` is available. (http://github.com/tkenofire/yak)
+3. `cd aava-datasets`
+
+### Adding new data select
+
+#### Create ubermap layer
+1. Create new geojson_layer in http://uber.mapbits.org
+2. Copy contents for style, popup and options tab from an existing layer to the new layer.
+3. Make note of url for the layer this will need to be used layer.  (example: http://uber.mapbits.org/orgs/aaga/geojson_layers/105/edit)
+
+#### Create geojson file from google spreadsheet
+
+1. Create a new directory for the dataset
+2. Initialize the new dataset directory
+  ```
+  mkdir AWESOME_DATASET
+  cd AWESOME_DATASET
+  yak aava --init .
+  # note on a linux system you will need to specify the --browser flag
+  yak aava --init --browser firefox .
+  ```
+  This will ask a series of questions about the dataset.
+  1. URL for google spreadsheet to download.  This should be the shared link url that can be found by clicking on the `Share` button on the top right and then clicking
+  2. URL for the ubermap layer to save the geojson for that you noted above.  This should reference a geojson_layer and not a map or other type of layer.  Example: http://uber.mapbits.org/orgs/aaga/geojson_layers/105/edit
+3. This should then open a browser window to the specified ubermap layer window.
+4. Click the data tab and upload the generated geojson file.
+
+#### Troubleshooting issues with creating new layers
+
+1. If the Google spreadsheet is not set to be sharable via url the CLI tool will be unable to export the CSV version in order to convert to a GeoJSON file.
+2. In order to convert the geojson file from a CSV to a GeoJSON the CSV needs to contain a `lat` and `lon` columns.  You can look at the `.vrt` file to see exactly what fields or to customize the fields that it's trying to use for a particular dataset.
+
+### Updating existing data set
+
+1. cd into the subdirectory with the dataset you wish to updated
+2. Run the updater!
+    * on OSX run `yak aava`
+    * on Linux run `yak aava -b firefox` or whatever browser you want it to use
+3. In the browser go to the data tab and click the "Choose file" button
+4. Browse to the directory and find the file that you are trying to update.  
+5. Click the "Save" button
 
 ## Manual instructions for converting datasets into geojson
 
