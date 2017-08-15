@@ -13,19 +13,22 @@ Quick location to store the basic data and documentation on how to convert the g
 ### Getting started
 1. Clone this respository  
   `git clone git@github.com:gina-alaska/aava-datasets`
-2. Make sure that the `yak` command is installed and `yak aava --help` is available. (http://github.com/tkenofire/yak)
+2. Make sure that the `yak` command is installed and `yak aava --help` is available. (http://github.com/teknofire/yak)
 3. `cd aava-datasets`
 
-### Adding new data select
+### Adding new datasets
 
 #### Create ubermap layer
 1. Create new geojson_layer in http://uber.mapbits.org
+
+   **NOTE:** Until the layer is added to a map it is useful to include the data set name in the layer name.  After it has been added to a map it can then be changed to just say "Plot Locations"
 2. Copy contents for style, popup and options tab from an existing layer to the new layer.
 3. Make note of url for the layer this will need to be used layer.  (example: http://uber.mapbits.org/orgs/aaga/geojson_layers/105/edit)
+4. Create a new map that loads the layer.  Example: http://uber.mapbits.org/orgs/aaga/maps/oumalik
 
 #### Create geojson file from google spreadsheet
 
-1. Create a new directory for the dataset
+1. Create a new directory for the dataset in the clone of the aava-datasets repository.
 2. Initialize the new dataset directory
   ```
   mkdir AWESOME_DATASET
