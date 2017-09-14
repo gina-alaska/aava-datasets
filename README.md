@@ -297,3 +297,23 @@ Ubermap edit: http://uber.mapbits.org/orgs/aaga/geojson_layers/105/edit
 Convert command
 
     yak geojson -f -p EPSG:4326 flxtwrzona.vrt
+
+##hacmldbay
+
+Google Doc: https://docs.google.com/spreadsheets/d/19hPsKk2F6bV-ZkVxo80dtKN5GMxkIENpTw9ROTiFOfQ/edit#gid=0
+
+Ubermap edit: http://uber.mapbits.org/orgs/aaga/geojson_layers/112/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 hacmldbay.vrt
+
+## hacmldbay
+
+Google Doc: https://docs.google.com/spreadsheets/d/19hPsKk2F6bV-ZkVxo80dtKN5GMxkIENpTw9ROTiFOfQ/edit#gid=0
+
+Ubermap edit: http://uber.mapbits.org/orgs/aaga/geojson_layers/112/edit
+
+Convert command
+
+    yak geojson -f -p EPSG:4326 hacmldbay.vrt
